@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mujaheed Ali Khan 👋
 
-<!--
-**MujaheedAliKhan/MujaheedAliKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Frontend Developer | React.js | JavaScript
 
-Here are some ideas to get you started:
+I'm a Computer Applications graduate passionate about building responsive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently improving my frontend development skills
+- 💻 Building projects with HTML, CSS, JavaScript and React.js
+- 🚀 Exploring full-stack web development
+
+### 🛠️ Technologies
+
+HTML | CSS | JavaScript | React.js | Node.js | MongoDB | Express.js | SQL
+
+### 🤖 AI Tools
+
+- ChatGPT — Learning, brainstorming, debugging, and code explanations
+- Google Gemini — Research, problem-solving, and development assistance
+- GitHub Copilot — AI-assisted code completion and coding suggestions
+
+### 🌐 Connect With Me
+
+- Portfolio: https://personal-portfolio-coral-rho.vercel.app
+- LinkedIn: https://linkedin.com/in/mujaheedalikhan
+- GitHub: https://github.com/MujaheedAliKhan
