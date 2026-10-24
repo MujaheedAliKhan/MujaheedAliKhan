@@ -1,3 +1,5 @@
+![Mujaheed Ali Khan - Frontend Developer](banner1.png)
+
 # Hi, I'm Mujaheed Ali Khan 👋
 
 ### Aspiring Frontend Developer | React.js | JavaScript
