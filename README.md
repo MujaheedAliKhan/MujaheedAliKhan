@@ -10,15 +10,15 @@ I'm a Computer Applications graduate passionate about building responsive and us
 - 💻 Building projects with HTML, CSS, JavaScript and React.js
 - 🚀 Exploring full-stack web development
 
-### 🛠️ Technologies
-
-HTML | CSS | JavaScript | React.js | Node.js | MongoDB | Express.js | SQL
+---
 
 ### 🤖 AI Tools
 
 - ChatGPT — Learning, brainstorming, debugging, and code explanations
 - Google Gemini — Research, problem-solving, and development assistance
 - GitHub Copilot — AI-assisted code completion and coding suggestions
+
+---
 
 ### 🌐 Connect With Me
 
